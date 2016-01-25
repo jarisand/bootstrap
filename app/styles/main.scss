@@ -8,4 +8,35 @@ $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 
 // your own css/scss
 
+.jumbotron{
+    background-image: url(../images/banneri.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#headerrow{
+    text-align: center;
+    background-color: rgba(245, 245, 245, 0.6); 
+}
+
+#cavebob{
+    width: 50%;
+    height: 50%;
+}
+
+#row1{
+    text-align: center;
+}
+
+#banneripaavo{
+    height: 30%;
+    width: 30%;
+    
+}
+
+#pp{
+    height: 75%;
+    width: 75%;
+}
+
 // your own css/scss ends
